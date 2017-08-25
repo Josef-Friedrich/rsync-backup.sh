@@ -2,16 +2,17 @@
 
 # rsync-backup.sh
 
+
+## Summary / Short description
+
+> A wrapper script for rsync with source und destination accessibility checks, advanced logging and backup support.
+
 ## Usage
 
 ```
 Usage: rsync-backup [-abBdehlLmn] <source> <destination>
 
-DESCRIPTION
-	A wrapper command for rsync with the main features:
-		- Backups in in the folder '.rsync-backup/backups'
-		- Logging per e mail.
-		- Source und destination folder checks over scp.
+A wrapper script for rsync with source und destination accessibility checks, advanced logging and backup support.
 
 OPTIONS
 	-a <path>: Creates a .rsync-backup/please-sync affirmation file for the given folder.
@@ -51,9 +52,9 @@ DEPENDENCIES
 	- scp
 	- tee
 ```
-
 ## Testing
 
 ```
 make test
 ```
+
