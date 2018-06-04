@@ -52,6 +52,11 @@ DEPENDENCIES
 	- scp
 	- tee
 ```
+
+## Project pages
+
+* https://github.com/Josef-Friedrich/rsync-backup.sh
+
 ## Testing
 
 ```
