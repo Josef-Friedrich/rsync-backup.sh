@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JosefFriedrich-shell/rsync-backup.sh.svg?branch=master)](https://travis-ci.org/JosefFriedrich-shell/rsync-backup.sh)
+[![Build Status](https://travis-ci.org/Josef-Friedrich/rsync-backup.sh.svg?branch=master)](https://travis-ci.org/Josef-Friedrich/rsync-backup.sh)
 
 # rsync-backup.sh
 
