@@ -1,0 +1,1 @@
+A wrapper script for rsync with source und destination accessibility checks, advanced logging and backup support. 
