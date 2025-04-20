@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Josef-Friedrich/rsync-backup.sh.svg?branch=master)](https://travis-ci.org/Josef-Friedrich/rsync-backup.sh)
+Deprecated: Use https://github.com/Josef-Friedrich/rsync-watch instead
 
 # rsync-backup.sh
 
